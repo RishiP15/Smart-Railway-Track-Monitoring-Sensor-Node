@@ -1,4 +1,4 @@
-# 🚆 Smart Railway Sensor Node
+#  Smart Railway Sensor Node
 
 ## Overview
 
